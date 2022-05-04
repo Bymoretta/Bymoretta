@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to web design and related technologies  
   
 
-- 😅😅😅 Fun fact:I don't know what alt+shift+F  :"/  
+- 😅😅😅 Fun fact: I don't know what is alt+shift+F  :"/  
   
 
 <br/>  
