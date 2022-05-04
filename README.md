@@ -6,13 +6,13 @@
 ### <div align="center">I'm Moretta, developer in process 👨‍💻 working since 2021 🚀⭐</div>  
   
 
-- 🌱 I’m currently learning Java Script & Dart  
+- 👨‍💻 I’m currently learning Java Script & Dart  
   
 
 - ❓ Ask me about anything related to web design and related technologies  
   
 
-- ⚡ Fun fact:I don't know what alt+shift+F  :"/  
+- 😅😅😅 Fun fact:I don't know what alt+shift+F  :"/  
   
 
 <br/>  
