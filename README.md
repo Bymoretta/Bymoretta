@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Java Script & Dart  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to web design and related technologies  
   
 
 - ⚡ Fun fact:I don't know what alt+shift+F  :"/  
