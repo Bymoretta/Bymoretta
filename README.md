@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I´ dont know alt+shift+F  :"/  
+- ⚡ Fun fact:I don't know what alt+shift+F  :"/  
   
 
 <br/>  
