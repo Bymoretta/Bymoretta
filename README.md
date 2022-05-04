@@ -112,7 +112,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-            <a href="https://paypal.me/Axel Moretta" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/axelmoretta@outlook.com" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
                     align="center"
